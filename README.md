@@ -72,3 +72,5 @@ Given n = 3, assume that player 1 is
 |O|O| |    // Player 1 makes a move at (2, 1).
 |X|X|X|
 ```
+
+You can clone this repo and run `npm install` and then run `npm run start`
